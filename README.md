@@ -1,6 +1,6 @@
 # in_silico_bioANN
 
-In silico recurrent neural network model of arbitrary biological neural network used in:  
+In silico recurrent neural network model of biological neural networks used in:  
 Trujillo CA*, Adams JW*, Negraes PD, Carromeu C, Tejwani L, Acab A, Tsuda B, Thomas CA, Sodhi N, Fichter KM, Zanella F, Sejnowski TJ, Ulrich H, Muotri AR. *Pharmacological reversal of multiple phenotypes in human MECP2-KO neurons and networks.* In review. 2020.
 
 Organization of **bioANN.py** is
