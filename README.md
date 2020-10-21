@@ -4,19 +4,17 @@ In silico recurrent neural network model of biological neural networks used in:
 Trujillo CA*, Adams JW*, Negraes PD, Carromeu C, Tejwani L, Acab A, Tsuda B, Thomas CA, Sodhi N, Fichter KM, Zanella F, Sejnowski TJ, Ulrich H, Muotri AR. *Pharmacological reversal of multiple phenotypes in human MECP2-KO neurons and networks.* In review. 2020.
 
 Organization of **bioANN.py** is
-  - helper fxns
   - definition of network class
-  - definition of worker class
+  - definition of simulation class
       - test fxn
   - main
       - definition of parameters and output directories
-      - creation of central network
-      - creation of training workers
-      - creation of testing workers
-      - script to deploy workers for training AND testing
+      - creation of simulation of network
+      - script to run simulation and gather data
 
 Command to run bioANN:  
-`python3 bioANN.py [NETSZ] [GPU] [RUNNO]`
+`python3 bioANN.py [NETSZ] [P_CON] [P_INH] [W_MASK] [KD]`  
+where NETSZ is number of neurons in network, P_CON is connectivity, P_INH is fraction of network that are inhibitory neurons, W_MASK is the catergory of synapses to perturb, and KD is the perturbation factor.
 
 # Citation
 
