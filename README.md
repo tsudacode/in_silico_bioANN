@@ -9,7 +9,7 @@ Organization of **bioANN.py** is
   - definition of simulation class
       - test fxn
   - main
-      - definition of parameters and output directories
+      - definition of parameters and output directory
       - creation of simulation of network
       - script to run simulation and gather data
 
