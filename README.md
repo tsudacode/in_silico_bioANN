@@ -24,7 +24,7 @@ where `[NETSZ]` is number of neurons in network, `[P_CON]` is connectivity, `[P_
 If you use this repo in your research, please cite:
 
     @article{Trujillo_2020,
-    Author = {Trujillo CA and Adams JW and Negraes PD and Carromeu C and Tejwani L and Acab A and Tsuda B and Thomas CA and Sodhi N and Fichter KM and Romero S and Zanella F and Sejnowski TJ and Ulrich H and Muotri AR},  
+    Author = {Cleber A Trujillo and Jason W Adams and Priscilla D Negraes and Cassiano Carromeu and Leon Tejwani and Allan Acab and Ben Tsuda and Charles A Thomas and Neha Sodhi and Katherine M Fichter and Sarah Romero and Fabian Zanella and Terrence J Sejnowski and Henning Ulrich and Alysson R Muotri},  
     Title = {Pharmacological reversal of synaptic and network pathology in human MECP2-KO neurons and cortical organoids},  
     Journal = {EMBO Molecular Medicine},  
     Pages = {e12523},  
